@@ -1,4 +1,4 @@
-package crusader.despicableapp.view.activities;
+package crusader.despicableapp.ui.activities;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

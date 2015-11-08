@@ -1,4 +1,4 @@
-package crusader.despicableapp.view.activities;
+package crusader.despicableapp.ui.activities;
 
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
